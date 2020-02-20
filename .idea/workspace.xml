@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9cb817e-074e-4f51-b6b7-481100aa8dda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="where-dream-continues" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\GO2" />
+  <component name="ProjectId" id="1Tt0XJqwQynKXqesAQ4xB18DhrE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../know-about" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoProjects\src\where-dream-continues\知乎~问题详情页" />
+      <recent name="D:\GoProjects\src\where-dream-continues" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoProjects\src\where-dream-continues\知乎" />
+      <recent name="D:\GoProjects\src\where-dream-continues\聊天室" />
+      <recent name="D:\GoProjects\src\where-dream-continues\chat" />
+      <recent name="D:\GoProjects\src\where-dream-continues" />
+      <recent name="D:\GoProjects\src\where-dream-continues\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build where-dream-continues (4)">
+    <configuration name="go build where-dream-continues (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="where-dream-continues" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/草稿.go" />
+      <package value="where-dream-continues" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build where-dream-continues (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="where-dream-continues" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/草稿2.go" />
+      <package value="where-dream-continues" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build where-dream-continues (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="where-dream-continues" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/草稿3.go" />
+      <package value="where-dream-continues" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build where-dream-continues (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="where-dream-continues" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/日志.go" />
+      <package value="where-dream-continues" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build where-dream-continues" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="where-dream-continues" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/某个存表情包的日子.go" />
+      <package value="where-dream-continues" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build where-dream-continues/知乎~登录注册页" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="where-dream-continues" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/知乎~登录注册页/非数据库层.go" />
+      <package value="where-dream-continues/知乎~登录注册页" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build where-dream-continues/知乎~登录注册页" />
+      <item itemvalue="Go Build.go build where-dream-continues" />
+      <item itemvalue="Go Build.go build where-dream-continues (1)" />
+      <item itemvalue="Go Build.go build where-dream-continues (2)" />
+      <item itemvalue="Go Build.go build where-dream-continues (3)" />
+      <item itemvalue="Go Build.go build where-dream-continues (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build where-dream-continues (4)" />
+        <item itemvalue="Go Build.go build where-dream-continues (1)" />
+        <item itemvalue="Go Build.go build where-dream-continues (2)" />
+        <item itemvalue="Go Build.go build where-dream-continues (3)" />
+        <item itemvalue="Go Build.go build where-dream-continues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="123" key="#Build_Tags_&amp;_Vendoring" timestamp="1579673584996">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="123" key="#Build_Tags_&amp;_Vendoring/0.0.1440.920@0.0.1440.920" timestamp="1579673584996" />
+    <state x="313" y="123" key="#GOROOT" timestamp="1579570002153">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="123" key="#GOROOT/0.0.1440.920@0.0.1440.920" timestamp="1579570002153" />
+    <state x="313" y="123" key="#Go_Modules_(vgo)" timestamp="1579673628222">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="123" key="#Go_Modules_(vgo)/0.0.1440.920@0.0.1440.920" timestamp="1579673628222" />
+    <state x="313" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579413734870">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1579413734870" />
+    <state x="482" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582204259126">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="482" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920@0.0.1440.920" timestamp="1582204259126" />
+    <state x="438" y="122" key="#go_build_redirect.go" timestamp="1579521887995">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="438" y="122" key="#go_build_redirect.go/0.0.1440.920@0.0.1440.920" timestamp="1579521887995" />
+    <state x="437" y="120" key="#go_build_where-dream-continues" timestamp="1581684004029">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="437" y="120" key="#go_build_where-dream-continues/0.0.1440.920@0.0.1440.920" timestamp="1581684004029" />
+    <state x="438" y="120" key="#go_build_where-dream-continues/chat" timestamp="1579870448263">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="438" y="120" key="#go_build_where-dream-continues/chat/0.0.1440.920@0.0.1440.920" timestamp="1579870448263" />
+    <state x="438" y="129" key="#go_build_where-dream-continues/message2" timestamp="1579788221119">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="438" y="129" key="#go_build_where-dream-continues/message2/0.0.1440.920@0.0.1440.920" timestamp="1579788221119" />
+    <state x="438" y="120" key="#go_build_where-dream-continues/model" timestamp="1579489642717">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="438" y="120" key="#go_build_where-dream-continues/model/0.0.1440.920@0.0.1440.920" timestamp="1579489642717" />
+    <state x="438" y="129" key="#go_build_where-dream-continues/model2" timestamp="1579521605755">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="438" y="129" key="#go_build_where-dream-continues/model2/0.0.1440.920@0.0.1440.920" timestamp="1579521605755" />
+    <state x="438" y="120" key="#go_build_where-dream-continues/model_(1)" timestamp="1579524129073">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="438" y="120" key="#go_build_where-dream-continues/model_(1)/0.0.1440.920@0.0.1440.920" timestamp="1579524129073" />
+    <state x="438" y="120" key="#go_build_where-dream-continues_(1)" timestamp="1581739899558">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="438" y="120" key="#go_build_where-dream-continues_(1)/0.0.1440.920@0.0.1440.920" timestamp="1581739899558" />
+    <state x="437" y="120" key="#go_build_where-dream-continues_(2)" timestamp="1581859814503">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="437" y="120" key="#go_build_where-dream-continues_(2)/0.0.1440.920@0.0.1440.920" timestamp="1581859814503" />
+    <state x="437" y="120" key="#go_build_where-dream-continues_(3)" timestamp="1581867891426">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="437" y="120" key="#go_build_where-dream-continues_(3)/0.0.1440.920@0.0.1440.920" timestamp="1581867891426" />
+    <state x="438" y="120" key="#go_build_where-dream-continues_(4)" timestamp="1582206214674">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="438" y="120" key="#go_build_where-dream-continues_(4)/0.0.1440.920@0.0.1440.920" timestamp="1582206214674" />
+    <state x="438" y="120" key="#go_build_where-dream-continues_(5)" timestamp="1579661803573">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="438" y="120" key="#go_build_where-dream-continues_(5)/0.0.1440.920@0.0.1440.920" timestamp="1579661803573" />
+    <state x="501" y="219" key="FileChooserDialogImpl" timestamp="1582201818007">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="219" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1582201818007" />
+    <state width="1397" height="164" key="GridCell.Tab.0.bottom" timestamp="1582206858949">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="164" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1582206858949" />
+    <state width="1397" height="164" key="GridCell.Tab.0.center" timestamp="1582206858946">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="164" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1582206858946" />
+    <state width="1397" height="164" key="GridCell.Tab.0.left" timestamp="1582206858945">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="164" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1582206858945" />
+    <state width="1397" height="164" key="GridCell.Tab.0.right" timestamp="1582206858948">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="164" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1582206858948" />
+    <state x="401" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580889295981">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="401" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.920@0.0.1440.920" timestamp="1580889295981" />
+    <state x="93" y="93" width="1255" height="735" key="dock-window-1" timestamp="1579867181088">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="93" y="93" width="1255" height="735" key="dock-window-1/0.0.1440.920@0.0.1440.920" timestamp="1579867181088" />
+    <state x="93" y="93" width="1255" height="735" key="dock-window-2" timestamp="1579867181088">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="93" y="93" width="1255" height="735" key="dock-window-2/0.0.1440.920@0.0.1440.920" timestamp="1579867181088" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1580903358614">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1580903358614" />
+  </component>
+</project>

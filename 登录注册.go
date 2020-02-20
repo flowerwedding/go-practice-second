@@ -9,7 +9,7 @@ func main() {//主体部分
 	router := gin.Default()
 	router.GET("/LoginRegistration", Login)
 	router.POST("/LoginRegistration", Registration)
-	router.Run(":8080")
+	_ = router.Run(":8080")
 }
 
 func Login (c *gin.Context) {//注册
